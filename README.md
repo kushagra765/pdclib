@@ -1,8 +1,6 @@
 # PDCLib - Public Domain C Library
-================================
 
 ## License
--------
 
 PDCLib is distributed unter the Creative Commons CC0 License. You
 should have received a copy of the full legal text of this license
@@ -38,7 +36,6 @@ When using or citing the work, you should not imply endorsement by
 the author or the affirmer.
 
 ## What is it
-----------
 
 This is a C Standard Library. Nothing more, nothing less. No POSIX
 or other extensions, just what's defined in ISO/IEC 9899.
@@ -47,7 +44,6 @@ or other extensions, just what's defined in ISO/IEC 9899.
 http://pdclib.rootdirectory.de to see what is implemented so far.)
 
 ## Further Documentation
----------------------
 
 Check Quickstart.txt to get a "working" version of the library as quick
 as possible.
