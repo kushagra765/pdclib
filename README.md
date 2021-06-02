@@ -1,5 +1,5 @@
 # PDCLib - Public Domain C Library
-Fork of PDCLIB for ![PlatypusOS](https://github.com/Platypus-Tech/new-platypus-os-drafts/)
+Fork of PDCLIB for [PlatypusOS](https://github.com/Platypus-Tech/new-platypus-os-drafts/)
 
 ## License
 
